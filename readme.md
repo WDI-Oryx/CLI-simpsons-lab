@@ -9,9 +9,6 @@
 
 ![Terminal image](https://camo.githubusercontent.com/a5b3ba816df436e40d059312f25d388836d8890c/687474703a2f2f706978616261792e636f6d2f7374617469632f75706c6f6164732f70686f746f2f323031332f30372f31332f31332f34312f626173682d3136313338325f3634302e706e67)
 
-## Setup
-Do your work in the `hw-u01-d01-simpsons_cli` directory. Create a new directory called `simpsons` where we will do all of the following work.
-
 
 ## Completion
 Complete Part 1 and 2! The main purpose of this assignment is to get you feeling comfortable typing and working inside the terminal.
@@ -21,6 +18,9 @@ Please watch this [TED Talk about Grit](https://www.ted.com/talks/angela_lee_duc
 
 ## Part 2 - Simpsons Activity
 The more practice you have working in the terminal manipulating files and directories the better!
+
+#### Setup
+Open your terminal, navigate to the path `~/code/wdi` and create a new directory called `simpsons` where we will do all of the following work.
 
 #### Creating the scene
 The Simpsons are your average American family living in Springfield. Let's create the family's hometown, create a directory called `springfield` and `cd` into it. Once you've navigated into the directory let's create the family members, create the following files in your `springfield` folder:
