@@ -46,3 +46,7 @@ When the exercise has been completed you now have a bunch of empty directories a
 To submit, go to your desktop and find the folders with the files you just made. Click the "columns" for display options (red arrow pointing to it below). Click through your folders so that the "home" directory is highlighted and you can see the text files inside.  Take a screenshot by using ` Command-Shift-4 ` to bring up a tool which will save a snapshot of any selection.
 
 That screenshot will automatically save to your desktop. Move it to your homework folder. You should have been using ` git add . `, ` git commit -m "MESSAGE" `, and ` git push origin master ` after each step. Do it one more time with the screen shot in the homework folder! Tomorrow we will talk about a slightly more involved process for submitting homework, but this is sufficient for tonight.
+
+Next create an issue on the *class* homework repo and follow this example
+
+![Create an Issue Example](https://git.generalassemb.ly/nyc-wdi-fisher/hw-u01-d01-simpsons_cli/blob/master/homework-submission-example.png)
