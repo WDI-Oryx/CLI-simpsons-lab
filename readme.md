@@ -14,9 +14,9 @@ Do your work in the `hw-u01-d01-simpsons_cli` directory. Create a new directory 
 
 
 ## Completion
-Finish all of the parts! The main purpose of this assignment is to get you feeling comfortable typing and working inside the terminal.
+Complete Part 1 and 2! The main purpose of this assignment is to get you feeling comfortable typing and working inside the terminal.
 
-## Part 1 - Grit
+## Part 1 - Grit (Ted Talk)
 Please watch this [TED Talk about Grit](https://www.ted.com/talks/angela_lee_duckworth_the_key_to_success_grit?language=en). It's a great talk and something we want you all to be mindful of as you embark on your journey into learning web development.
 
 ## Part 2 - Simpsons Activity
@@ -41,10 +41,8 @@ The Simpsons are your average American family living in Springfield. Let's creat
 7. The family finally makes their way back home and the hilarious couch gag ensues. Create a `home` directory inside of `springfield` and then create a `couch` directory within `home`. Then Move ALL of the family members to `couch`. BONUS - can you move the family members without going into any of the springfield sub-directories? (HINT - use relative paths! If in `springfield` directory, what does ` ls ` return? How about `ls power-plant `?)
 
 #### Submitting your work
-When the exercise has been completed you may have felt it was quite useless because now you have a bunch of empty directories and some arbitrary `.txt` files that don't even contain any text! This is all about getting reps and feeling comfortable in the environment. Keep practicing - this is now your life!
+When the exercise has been completed you now have a bunch of empty directories and some arbitrary `.txt` files that don't even contain any text! This is all about getting reps and feeling comfortable in the environment. Keep practicing - this is now your life!
 
-To submit, go to your desktop and find the folders with the files you just made.  Click the "columns" for display options (red arrow pointing to it below). Click through your folders so that the "home" directory is highlighted and you can see the text files inside.  Take a screenshot by using ` Command-Shift-4 ` to bring up a tool which will save a snapshot of any selection. The final result should look like this (without the red annotations):
+To submit, go to your desktop and find the folders with the files you just made. Click the "columns" for display options (red arrow pointing to it below). Click through your folders so that the "home" directory is highlighted and you can see the text files inside.  Take a screenshot by using ` Command-Shift-4 ` to bring up a tool which will save a snapshot of any selection.
 
-![Submission Example Image](https://git.generalassemb.ly/raw/wdi-nyc-60/hw-w01-d01/master/submission_example.png?token=AAAAFP59qMn8wUITtImDe-y-kizGUsGUks5X6W44wA%3D%3D)
-
-That screenshot will automatically save to your desktop. Move it to your homework folder. You should have been using ` git add . `, ` git commit -m "MESSAGE" `, and ` git push origin master ` after each step. Do it one more time with the screen shot in the homework folder! In general, there will be a slightly more involved process for submitting homework (which you can look up in the wiki), but this is sufficient for tonight.
+That screenshot will automatically save to your desktop. Move it to your homework folder. You should have been using ` git add . `, ` git commit -m "MESSAGE" `, and ` git push origin master ` after each step. Do it one more time with the screen shot in the homework folder! Tomorrow we will talk about a slightly more involved process for submitting homework, but this is sufficient for tonight.
