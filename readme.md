@@ -5,7 +5,7 @@
 ## Learning Objectives
 
 - Learn commonly used command line interface (CLI) commands
-- Become comfortable navigating your CLI
+- Become comfortable navigating the CLI
 
 ![Terminal image](https://camo.githubusercontent.com/a5b3ba816df436e40d059312f25d388836d8890c/687474703a2f2f706978616261792e636f6d2f7374617469632f75706c6f6164732f70686f746f2f323031332f30372f31332f31332f34312f626173682d3136313338325f3634302e706e67)
 
@@ -39,14 +39,3 @@ The Simpsons are your average American family living in Springfield. Let's creat
 5. The camera then pans to the band room in the school where we find Lisa crushing a sax solo. Traverse to the `school` directory, create a `band-room` directory, and move `Lisa.txt` into the `band-room` directory.<br><br>
 6. We then find the family making their way home through the streets of springfield; Homer in his pink car, Marge and Maggie in the red car, and Bart on his skateboard. Traverse back to the `springfield` directory and create the directories for the each mode of transportation, and then place each respective party in that directory.<br><br>
 7. The family finally makes their way back home and the hilarious couch gag ensues. Create a `home` directory inside of `springfield` and then create a `couch` directory within `home`. Then Move ALL of the family members to `couch`. BONUS - can you move the family members without going into any of the springfield sub-directories? (HINT - use relative paths! If in `springfield` directory, what does ` ls ` return? How about `ls power-plant `?)
-
-#### Submitting your work
-When the exercise has been completed you now have a bunch of empty directories and some arbitrary `.txt` files that don't even contain any text! This is all about getting reps and feeling comfortable in the environment. Keep practicing - this is now your life!
-
-To submit, go to your desktop and find the folders with the files you just made. Click the "columns" for display options (red arrow pointing to it below). Click through your folders so that the "home" directory is highlighted and you can see the text files inside.  Take a screenshot by using ` Command-Shift-4 ` to bring up a tool which will save a snapshot of any selection.
-
-That screenshot will automatically save to your desktop. Move it to your homework folder. You should have been using ` git add . `, ` git commit -m "MESSAGE" `, and ` git push origin master ` after each step. Do it one more time with the screen shot in the homework folder! Tomorrow we will talk about a slightly more involved process for submitting homework, but this is sufficient for tonight.
-
-Next create an issue on the *class* homework repo and follow this example
-
-![Create an Issue Example](https://git.generalassemb.ly/nyc-wdi-fisher/hw-u01-d01-simpsons_cli/blob/master/homework-submission-example.png)
