@@ -35,7 +35,7 @@ The Simpsons are your average American family living in Springfield. Let's creat
 -`Lisa.txt`<br>
 -`Maggie.txt`<br>
 
-#### Remaking the Intro
+#### Part 2 - Remaking the Intro
 1. When the show's intro starts the camera pans through the clouds and over the entire town. The view then focuses through the window of the elementary school where we find Bart in detention writing out whatever horrible deed he accomplished that day. Create a directory called `school` and move `Bart.txt` inside of it.<br><br>
 2. Next the camera pans to the nuclear power plant where we find Homer mishandling what appears to be a radioactive core sample. Create a directory `power-plant` and move `Homer.txt` into it.<br><br>
 3. Homer forgot his employee ID, so he needs to get a temporary pass. Let's use the ECHO command to initialize some text in `Homer.txt` like such - ` echo 'Work Pass: Homer J. Simpson' >> Homer.txt `<br><br>
